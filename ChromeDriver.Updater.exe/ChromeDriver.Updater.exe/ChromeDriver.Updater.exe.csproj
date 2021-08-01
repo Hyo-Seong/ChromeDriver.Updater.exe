@@ -7,7 +7,7 @@
     <ProjectGuid>{F4CD5523-3929-443D-BB8E-14F5B7B0012D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ChromeDriver.Updater.exe</RootNamespace>
-    <AssemblyName>ChromeDriver.Updater.exe</AssemblyName>
+    <AssemblyName>ChromeDriver.Updater</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
